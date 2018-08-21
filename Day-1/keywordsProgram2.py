@@ -1,5 +1,5 @@
 import keyword
-Print(keyword.kwlist)
+print(keyword.kwlist)
 
 import keyword
 name=keyword.kwlist
